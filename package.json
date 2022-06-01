@@ -1,0 +1,17 @@
+{
+  "name": "sh-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:halchester/sh-backend.git",
+  "author": "Chester <chester.htooaunglinn@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.27.0",
+    "@typescript-eslint/parser": "^5.27.0",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.1",
+    "prettier": "^2.6.2",
+    "typescript": "^4.7.2"
+  }
+}
